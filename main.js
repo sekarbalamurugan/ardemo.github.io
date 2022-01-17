@@ -20,11 +20,19 @@ document.addEventListener('DOMContentLoaded', () => {
     bear.scene.scale.set(0.1, 0.1, 0.1);
     bear.scene.position.set(0, -0.4, 0);
 
+    const deer = await loadGLTF('./musicband-bear/scene.gltf');
+    deer.scene.scale.set(0.1, 0.1, 0.1);
+    deer.scene.position.set(0, -0.4, 0);
+
+
     const raccoonAnchor = mindarThree.addAnchor(0);
     raccoonAnchor.group.add(raccoon.scene);
 
     const bearAnchor = mindarThree.addAnchor(1);
     bearAnchor.group.add(bear.scene);
+
+    const deerAnchor = mindarThree.addAnchor(2);
+    deerAnchor.group.add(deer.scene);
 
     await mindarThree.start();
     renderer.setAnimationLoop(() => {
