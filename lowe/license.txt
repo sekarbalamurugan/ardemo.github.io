@@ -1,8 +1,0 @@
-Model Information:
-* title:	Löwe
-* source:	https://sketchfab.com/3d-models/lowe-46eea1a922bd433a935351e7c2eff652
-* author:	noe-3d.at (https://sketchfab.com/www.noe-3d.at)
-
-Model License:
-* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
-* requirements:	Credit is not mandatory. Commercial use is allowed.
