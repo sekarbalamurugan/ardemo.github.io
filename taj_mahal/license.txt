@@ -1,0 +1,8 @@
+Model Information:
+* title:	Taj Mahal
+* source:	https://sketchfab.com/3d-models/taj-mahal-33149233cefd492b9abdd50fe5a8c921
+* author:	uday14viru (https://sketchfab.com/uday14viru)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest

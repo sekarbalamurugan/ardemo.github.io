@@ -1,0 +1,8 @@
+Model Information:
+* title:	Great Pyramid of Giza
+* source:	https://sketchfab.com/3d-models/great-pyramid-of-giza-c3cb6df9aca04b6da1d2ea7d0a9c2cb6
+* author:	Théo Derory (https://sketchfab.com/Theo.Derory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

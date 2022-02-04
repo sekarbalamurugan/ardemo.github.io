@@ -1,0 +1,8 @@
+Model Information:
+* title:	Leaning Tower Of Pisa
+* source:	https://sketchfab.com/3d-models/leaning-tower-of-pisa-b2c84fa2cfe643d98b49048c0531404b
+* author:	JohnHoagland (https://sketchfab.com/JohnHoagland)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest

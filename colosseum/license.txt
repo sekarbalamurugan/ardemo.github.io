@@ -1,0 +1,8 @@
+Model Information:
+* title:	Colosseum
+* source:	https://sketchfab.com/3d-models/colosseum-c7dbe1896b514573bfa8fa316a2a4985
+* author:	Easy Game Studio (https://sketchfab.com/Jeremy_Zh)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

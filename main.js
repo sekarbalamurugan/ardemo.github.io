@@ -12,15 +12,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const light = new THREE.HemisphereLight( 0xffffff, 0xbbbbff, 1 );
     scene.add(light);
 
-    const raccoon = await loadGLTF('./musicband-raccoon/scene.gltf');
+    const raccoon = await loadGLTF('./christ_the_redeemer/scene.gltf');
     raccoon.scene.scale.set(0.1, 0.1, 0.1);
     raccoon.scene.position.set(0, -0.4, 0);
 
-    const bear = await loadGLTF('./musicband-bear/scene.gltf');
+    const bear = await loadGLTF('./great_pyramid_of_giza/scene.gltf');
     bear.scene.scale.set(0.1, 0.1, 0.1);
     bear.scene.position.set(0, -0.4, 0);
 
-    const deer = await loadGLTF('./musicband-bear/scene.gltf');
+    const deer = await loadGLTF('./leaning_tower_of_pisa/scene.gltf');
     deer.scene.scale.set(0.1, 0.1, 0.1);
     deer.scene.position.set(0, -0.4, 0);
 
